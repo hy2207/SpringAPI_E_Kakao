@@ -1,0 +1,6 @@
+#REST API ? Redirect Url ? ?? ?? ??
+kakao:
+  authUrl: https://kauth.kakao.com/oauth/token
+  userApiUrl: https://kapi.kakao.com/v2/user/me
+  restapiKey: #develop kakao?? ?? key ??
+  redirectUrl: http://localhost:8080/callback
